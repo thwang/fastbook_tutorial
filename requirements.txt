@@ -1,0 +1,3 @@
+fastbook~=0.0.18
+graphviz~=0.19
+voila~=0.3
